@@ -1207,7 +1207,7 @@ export default function ProtocoloAntiCelulasZumbis() {
 
           <div className="bg-green-50 rounded-lg p-6 sm:p-8 my-8 sm:my-10 text-center">
             <p className="text-lg sm:text-xl mb-4 sm:mb-6">
-              Embora o preço normal seja <span className="line-through text-red-600">€297</span>, agora mesmo você pode ter acesso por apenas <span className="line-through text-red-600">€197</span>.
+              Embora o preço normal seja <span className="line-through text-red-600">$297</span>, agora mesmo você pode ter acesso por apenas <span className="line-through text-red-600">$197</span>.
             </p>
             
             <p className="text-lg sm:text-xl mb-4 sm:mb-6">
@@ -1219,11 +1219,11 @@ export default function ProtocoloAntiCelulasZumbis() {
             </p>
             
             <div className="mb-6 sm:mb-8">
-              <div className="text-gray-400 text-lg sm:text-2xl line-through mb-2">€297</div>
-              <div className="text-gray-400 text-base sm:text-xl line-through mb-3 sm:mb-4">€197</div>
-              <div className="text-6xl sm:text-7xl md:text-8xl font-bold text-green-600 mb-3 sm:mb-4">€27</div>
+              <div className="text-gray-400 text-lg sm:text-2xl line-through mb-2">$297</div>
+              <div className="text-gray-400 text-base sm:text-xl line-through mb-3 sm:mb-4">$197</div>
+              <div className="text-6xl sm:text-7xl md:text-8xl font-bold text-green-600 mb-3 sm:mb-4">$27</div>
               <div className="inline-block bg-yellow-400 text-gray-900 px-6 sm:px-8 py-2 sm:py-3 rounded-full text-lg sm:text-2xl font-bold mb-3 sm:mb-4">
-                🔥 Economia de €270!
+                🔥 Economia de $270!
               </div>
               <p className="text-gray-600 text-sm sm:text-base">
                 Um preço que o torna acessível para quem mais precisa.
@@ -1444,11 +1444,11 @@ export default function ProtocoloAntiCelulasZumbis() {
             </h3>
             
             <div className="mb-6 sm:mb-8">
-              <div className="text-gray-400 text-lg sm:text-2xl line-through mb-2">€297</div>
-              <div className="text-gray-400 text-base sm:text-xl line-through mb-3 sm:mb-4">€197</div>
-              <div className="text-6xl sm:text-7xl md:text-8xl font-bold text-green-600 mb-3 sm:mb-4">€27</div>
+              <div className="text-gray-400 text-lg sm:text-2xl line-through mb-2">$297</div>
+              <div className="text-gray-400 text-base sm:text-xl line-through mb-3 sm:mb-4">$197</div>
+              <div className="text-6xl sm:text-7xl md:text-8xl font-bold text-green-600 mb-3 sm:mb-4">$27</div>
               <p className="text-xl sm:text-2xl font-bold text-yellow-700 mb-4 sm:mb-6">
-                🔥 ECONOMIA DE €270 HOJE!
+                🔥 ECONOMIA DE $270 HOJE!
               </p>
             </div>
 
