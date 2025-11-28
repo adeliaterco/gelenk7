@@ -1032,7 +1032,7 @@ export default function ProtocoloAntiCelulasZumbis() {
             </h3>
             
             <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
-              <div className="w-16 h-16 sm:w-24 sm:h-24 bg-gray-300 rounded-full flex-shrink-0 overflow-hidden relative">
+              <div className="w-24 h-24 sm:w-40 sm:h-40 bg-gray-300 rounded-full flex-shrink-0 overflow-hidden relative">
                 <Image 
                   src={IMAGES.draMarina}
                   alt="Dra. Marina Santos"
