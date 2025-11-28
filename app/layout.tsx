@@ -10,7 +10,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Design Estrategico",
+  title: "gelenk7",
   description:
     "FDE",
   generator: "v0.dev",
